@@ -1,0 +1,3 @@
+First line
+Second line
+No newlineAppended line
